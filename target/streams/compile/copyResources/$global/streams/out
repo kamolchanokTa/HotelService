@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\Miruku\Downloads\Year4\Git\HotelService\src\main\resources\application.conf,C:\Users\Miruku\Downloads\Year4\Git\HotelService\target\scala-2.11\classes\application.conf)
+[debug] 	(C:\Users\Miruku\Downloads\Year4\Git\HotelService\src\main\resources\hoteldb.csv,C:\Users\Miruku\Downloads\Year4\Git\HotelService\target\scala-2.11\classes\hoteldb.csv)
+[debug] 	(C:\Users\Miruku\Downloads\Year4\Git\HotelService\src\main\resources\logback.xml,C:\Users\Miruku\Downloads\Year4\Git\HotelService\target\scala-2.11\classes\logback.xml)
